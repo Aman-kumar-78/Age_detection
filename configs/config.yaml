@@ -1,0 +1,9 @@
+artifacts_root: artifacts
+
+
+data_ingestion:
+  root_dir: artifacts/data_ingestion
+  download_url: https://www.kaggle.com/datasets/trainingdatapro/age-detection-human-faces-18-60-years/download?datasetVersionNumber=1
+  local_data_file: artifacts/data_ingestion/data.zip
+  save_dir: artifacts/data_ingestion
+  
